@@ -13,7 +13,7 @@
       // class with the same name
       "buildTarget": "root-test",
       "jvmOptions": [
-        "-Dspark.master=local[*]"
+        "-Dspark.master=local[*]",
       ]
     }
   ]
