@@ -1,0 +1,1 @@
+# Hello Spark Scala with Metals and sbt

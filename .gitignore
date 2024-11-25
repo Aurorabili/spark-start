@@ -1,0 +1,11 @@
+# bloop
+.bloop/
+
+# sbt
+.sbt/
+.bsp/
+project/
+target/
+
+# metals
+.metals/
